@@ -4,7 +4,7 @@ author: Volker G. Göhler
 
 email:  volker.goehler@informatik.tu-freiberg.de
 
-version: 0.0.1
+version: 0.0.2
 
 language: de
 
@@ -16,9 +16,9 @@ icon: img/TUBAF_Logo_EN_blau.png
 
 logo: 
 
-comment: Software Entwicklung
+comment: Softwareentwicklung
 
-title: Zwischenumfrage Software Entwicklung
+title: Zwischenumfrage Softwareentwicklung
 
 tags: Lehre, TUBAF
 
@@ -29,8 +29,18 @@ tags: Lehre, TUBAF
 
 **Software Entwicklung, 2026**
 
-Volker Göhler, TU Bergakademie Freiberg
+- Prof. Dr. Sebastian Zug, TU Bergakademie Freiberg
+- Volker Göhler, TU Bergakademie Freiberg
 
 ------------------------------
 
-> "Code" auf https://github.com/vgoehler/SoDev_Zwischenumfrage_June_26 als Open Educational Ressource.
+Zwischenumfrage
+====================
+
+[qr-code](https://limesurvey.hrz.tu-freiberg.de/index.php/995541?lang=de "Limesurvey Softwareentwicklung Zwischenumfrage (deutsch)")
+
+- https://limesurvey.hrz.tu-freiberg.de/index.php/995541?lang=de
+- https://limesurvey.hrz.tu-freiberg.de/index.php/995541?lang=en
+
+- https://tinyurl.com/sodev-zwischen-26
+- https://tinyurl.com/sodev-zwischen-26-en
